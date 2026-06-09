@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = ".arduino-build/toio-pen-plotter.ino.bin"
+elf = ".arduino-build/toio-pen-plotter.ino.elf"
